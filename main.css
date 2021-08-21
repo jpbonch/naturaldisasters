@@ -1,0 +1,232 @@
+#mapid {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+ }
+
+ #monthSelect, #monthSelectBack{
+   position: absolute !important;
+   bottom: 15px;
+   left: 13px;
+   width: 265px !important;
+   font-size: 30px;
+   cursor: pointer;
+   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+   border: 0;
+   border-radius: 10px;
+   -webkit-box-shadow: 0 5px 1px rgba(0,0,0,0.6);
+           box-shadow: 0 5px 1px rgba(0,0,0,0.6);
+   padding: 5px;
+   color: #333333
+ }
+
+ #monthSelect{
+   z-index: 999 !important;
+   background-color: transparent;
+ }
+
+ #monthSelectBack{
+   z-index: 900 !important;
+   background-color: white;
+   height: 38px;
+ }
+
+#monthSelect::-webkit-calendar-picker-indicator {
+  display: none;
+}
+
+#monthSelect::-moz-selection{
+  background: white;
+}
+
+#monthSelect::selection{
+  background: white;
+}
+
+#monthSelect:focus{
+  outline: none;
+}
+
+#calendarPic{
+  float: right;
+  width: 30px;
+  z-index: 900;
+  margin-top:3px;
+  margin-right: 3px;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+  overflow: hidden;
+}
+
+#infosection{
+  max-height: calc(100vh - 35px);
+  overflow-y: scroll;
+  position: absolute;
+  top: 5px;
+  padding: 10px;
+  width: clamp(200px, 20vw, 300px);
+  background-color: white;
+  border-radius: 10px;
+  -webkit-box-shadow: 0 5px 1px rgba(0,0,0,0.6);
+          box-shadow: 0 5px 1px rgba(0,0,0,0.6);
+  z-index: 999;
+  right: calc(-1 * clamp(200px, 20vw, 300px) - 30px)
+}
+
+::-webkit-scrollbar {
+  -webkit-appearance: none;
+  width: 7px;
+}
+::-webkit-scrollbar-thumb {
+  border-radius: 4px;
+  background-color: rgba(0, 0, 0, .5);
+  -webkit-box-shadow: 0 0 1px rgba(255, 255, 255, .5);
+}
+
+#closebutton{
+  position: absolute;
+  top: 3px;
+  right:3px;
+  border-radius: 5px;
+  height: 30px;
+  width: 30px;
+  font-size: 20px;
+  background-color: white;
+  border: 0px solid gray;
+  color: black;
+  -webkit-box-shadow: 0 2px 1px rgba(0,0,0,0.40);
+          box-shadow: 0 2px 1px rgba(0,0,0,0.40);
+
+}
+
+#closebutton:hover{
+  cursor: pointer;
+  background-color: lightgray
+}
+
+#status{
+  text-transform: capitalize;
+}
+
+#url{
+  background-color: white;
+  -webkit-box-shadow: 0 2px 1px rgba(0,0,0,0.40);
+          box-shadow: 0 2px 1px rgba(0,0,0,0.40);
+  width: 100px;
+  height: 47px;
+  padding-top: 5px;
+  margin: 0;
+  margin-right: 10px;
+  /* margin-bottom: 2px; */
+  /* margin: 20px; */
+  display: block;
+  text-align: center;
+  float: left;
+  /* margin: auto; */
+}
+
+#url:hover{
+  background-color: lightgray
+}
+
+#charityDescription{
+  margin-top: 12px;
+}
+
+#status{
+  margin-bottom: 10px;
+}
+
+h1{
+  font-size: 30px;
+  margin: 0
+}
+
+h2{
+  margin: 0;
+  font-weight: normal;
+  font-size: 18px
+}
+
+.leaflet-bar{
+  -webkit-box-shadow: none;
+          box-shadow: none;
+  border: 0 !important;
+}
+
+.leaflet-touch .leaflet-bar a {
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    font-size: 25px;
+}
+
+.leaflet-control-zoom-in, .leaflet-control-zoom-out{
+  margin-bottom: 5px;
+  -webkit-box-shadow: 0 2px 1px rgba(0,0,0,0.40);
+          box-shadow: 0 2px 1px rgba(0,0,0,0.40);
+}
+
+.leaflet-bar a{
+  border-radius: 10px !important;
+}
+
+.leaflet-control-zoom .leaflet-bar .leaflet-control{
+  border: 0 !important;
+}
+
+/* Change cursor when mousing over clickable layer */
+.leaflet-clickable {
+  cursor: crosshair !important;
+}
+/* Change cursor when over entire map */
+.leaflet-container {
+  cursor: default !important;
+}
+
+.leaflet-interactive {
+  -webkit-animation: fadein 0.6s;
+          animation: fadein 0.6s;
+}
+
+@-webkit-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+@keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+.leaflet-marker-icon {
+  -webkit-transition: -webkit-filter 0.3s ease !important;
+  transition: -webkit-filter 0.3s ease !important;
+  -o-transition: filter 0.3s ease !important;
+  transition: filter 0.3s ease !important;
+  transition: filter 0.3s ease, -webkit-filter 0.3s ease !important;
+}
+
+.leaflet-marker-icon:hover {
+   -webkit-filter: brightness(130%);
+           filter: brightness(130%);
+   z-index: 999 !important;
+}
+.leaflet-marker-icon:active {
+   -webkit-filter: brightness(70%);
+           filter: brightness(70%);
+}
+
+.ui-button{
+  width: 44px !important ;
+}
+
+.ui-icon-arrowthick-1-e,  .ui-icon-arrowthick-1-w{
+  -ms-transform: scale(2); /* IE 9 */
+  -webkit-transform: scale(2); /* Chrome, Safari, Opera */
+  transform: scale(1.5);
+}

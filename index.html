@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Natural Disasters</title>
+    <link rel="icon" href="favicon.ico">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+  integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+  crossorigin=""/>
+  <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+   integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+   crossorigin=""></script>
+   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+   <link href="jquery-ui-custom/jquery-ui.min.css" rel="stylesheet" type="text/css" />
+   <script src="jquery-ui-custom/jquery-ui.min.js"></script>
+   <script src="MonthPicker.min.js"></script>
+   <link href="MonthPicker.min.css" rel="stylesheet" />
+   <link rel="stylesheet" href="main.css" />
+  </head>
+  <body>
+    <div id="mapid"></div>
+
+    <div id="monthSelectBack"><img src="calendar.png" id="calendarPic"/></div>
+    <input type="text" id="monthSelect" disabled/>
+
+
+    <div id="infosection">
+      <button id="closebutton">X</button>
+      <h1 id="disaster"></h2>
+      <h2 id="country"></h2>
+
+      <h2 id="date"></h2>
+      <h2 id="longName"></h2>
+      <h2 id="status"></h2>
+      <a href="https://reliefweb.int/updates" id="url">Charity Website</a>
+      <p id="charityDescription"></p>
+    </div>
+
+    <script src="main.js"></script>
+  </body>
+</html>
