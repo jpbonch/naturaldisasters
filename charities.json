@@ -6,5 +6,73 @@
   "Bangladesh": {
     "url": "https://pennyappeal.org/appeal/bangladesh-floods",
     "description": "Hundreds of people have died, while many more have lost their homes, livelihoods and lack access to essential food, water, and even basic medical assistance. Penny Appeal is working with partners on the ground to provide life-saving support to those whose lives have been torn apart this Monsoon season."
-  }
+  },
+  "Algeria":{
+    "url": "https://www.sos-childrensvillages.org/where-we-help/africa/algeria",
+    "description": "Algeria is known as the gateway between continental Europe and Africa. Despite the discovery of large oil and gas reserves, vast parts of Algeria are deeply immersed in poverty. In Algiers, thousands of street children are struggling to survive without any support from their families. SOS Children's Villages has been reaching out to the country's young people and children in order to support and protect them."
+  },
+  "Sudan":{
+    "url": "https://www.savethechildren.org/us/where-we-work/sudan",
+    "description": "Save the Children has served as a leading charity for children in Sudan since 1983, starting with our work to provide humanitarian relief during drought-caused hunger crises across the country, then to programming for children and families affected by violent conflict, displacement, extreme poverty and a lack of basic services."
+  },
+  "Myanmar":{
+    "url": "https://www.savethechildren.org/us/where-we-work/myanmar",
+    "description": "Save the Children has worked as a leading charity for children in Myanmar since 1995, and has offered sponsorship since 2017. We’re helping children access essential services like health care, education and protection. We've expanded our programs to support the most vulnerable children and their families. We provide emergency relief for those displaced by conflict or whose lives are disrupted by disaster."
+  },
+  "Iraq":{
+    "url": "https://www.savethechildren.org.uk/where-we-work/middle-east/iraq",
+    "description": "Our teams are in Iraq, doing everything we can to reach children caught up in the violence. But we need your help to protect children in the line of fire. Donate to our Emergency Fund so we can help children caught up in this crisis, and crises like this around the world."
+  },
+  "Malaysia":{
+    "url": "https://www.mercy.org.my/",
+    "description": "MERCY Malaysia adopts the Total Disaster Risk Management (TDRM) approach to our work which applies disaster risk management to all the phases of the disaster management cycle – from emergency response, to recovery, prevention/mitigation and preparedness/readiness."
+  },
+  "Central African Republic":{
+    "url": "https://www.concern.org.uk/where-we-work/central-african-republic",
+    "description": "We have been operational in the Central African Republic (CAR) since March 2014. The overall goals of our programme in CAR are to provide humanitarian assistance, build the resilience of communities and to alleviate the suffering of conflict-affected communities."
+  },
+  "Côte d'Ivoire":{
+    "url": "https://www.actionagainsthunger.org.uk/our-impact/where-we-work/west-africa/cote-divoire",
+    "description": "Our focus in this country is aimed at strengthening the Ivorian health system. By using a community-based approach, we’re trying to get communities more involved in local health centre management and activities centred around prevention of malnutrition."
+  },
+  "Venezuela (Bolivarian Republic of)":{
+    "url": "https://www.healingvenezuela.org/",
+    "description": "Healing Venezuela is an apolitical charity whose purpose is to help the delivery of the best possible medical assistance to the people of Venezuela through a variety of programmes, including providing medical supplies, sponsoring junior doctors, improving infrastructure in hospitals and feeding children at risk of malnutrition."
+  },
+  "Mongolia":{
+    "url": "https://www.asralmongolia.org/",
+    "description": "Asral is an award-winning NGO established by Venerable Panchen Ötrul Rinpoche in 2001 to eradicate poverty, prevent the disintegration of the family and to support vulnerable children and their mothers in Mongolia."
+  },
+  "Yemen":{
+    "url": "https://www.unicef.org.uk/donate/yemen/",
+    "description": "UNICEF is on the ground working around the clock to protect children in Yemen. Since the start of the crisis, we have helped to reach more than 4 million children with over 3,000 tonnes of life-saving supplies, including life-saving therapeutic food, safe drinking water and health care supplies."
+  },
+  "the Republic of North Macedonia":{
+    "url": "https://www.fuelmacedonia.org.uk/",
+    "description": "Fuel Macedonia is a UK registered charity established to prevent and relieve poverty and bring relief to those in financial hardship in North Macedonia. The charity's aim is to support locally run initiatives that can become the long-term solution to local issues."
+  },
+  "Panama":{
+    "url": "https://www.sos-childrensvillages.org/where-we-help/americas/panama",
+    "description": "SOS Children's Villages has been present in Panama since the 1980s. The first SOS Children's Village went into operation in 1982. Through our work in four locations - in Panama City, Davíd, Colón and Penonomé, we have been supporting children and young people by providing day-care, education, vocational training, playgrounds and sports facilities. When children can no longer stay with their families, they are cared for by their SOS mothers in one of the SOS families."
+  },
+  "Costa Rica":{
+    "url": "http://www.crhf.org/",
+    "description": "The Costa Rican Humanitarian Foundation (CRHF) is a non-profit organization committed to developing creative and economical solutions to a wide range of social problems in Costa Rica. The CRHF provides opportunities to exchange friendship, goods, services, and financial resources for critical needs among different cultures, socio-economic classes, and language groups."
+  },
+  "Syrian Arab Republic":{
+    "url": "https://www.unicef.org.uk/donate/syria/",
+    "description": "Ten years of conflict have left 8 million Syrian children in danger. Children have lost their homes, their schools and even their families. They face unspeakable violence, a lack of access to food, health care and clean water, as well as an increased risk of disease. Unicef is working to tackle these issues."
+  },
+  "Chad":{
+    "url": "https://www.careinternational.org.uk/countries/chad",
+    "description": "CARE began working in Chad, one of the world's poorest countries, in 1975. We work on a number of long-term programmes to improve quality of life in poor communities, with projects on water and sanitation, earning a living, farming, natural resource management and gender-based violence. We also work with the many refugees fleeing from ongoing violence and conflict in neighbouring countries."
+  },
+  "Niger":{
+    "url": "https://www.concern.org.uk/where-we-work/niger",
+    "description": "Our response in Niger focuses on tackling the structural causes of extreme poverty through health, nutrition, livelihoods and education support. Niger is faced with daunting development challenges, exacerbated by security concerns from terrorist incursions, challenges with the transit of Europe-bound migrants, climate change and excessive population growth."
+  },
+  "Nigeria":{
+    "url": "https://www.savethechildren.org.uk/where-we-work/africa/nigeria",
+    "description": "We focus on health, nutrition, education, livelihoods and child protection. We work closely with partners to develop sustainable, replicable programmes which help children to reach their full potential."
+  },
 }
