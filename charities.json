@@ -122,37 +122,128 @@
   "Democratic Republic of the Congo":{
     "name": "Save The Children",
     "url": "https://www.savethechildren.org/us/where-we-work/democratic-republic-of-congo",
-    "description": ""
+    "description": "Working on behalf of children in the DRC since 1994, today Save the Children works in five regions throughout the troubled country. Partnering with local communities and other stakeholders at all levels, Save the Children’s staff help children in the Democratic Republic of Congo by getting children back to school, providing them with healthcare and nutrition support, and protecting them from exploitation and abuse."
   },
-  "":{
-    "name": "",
-    "url": "",
-    "description": ""
+  "Zambia":{
+    "name": "Zambia Society Trust",
+    "url": "https://zambiasocietytrust.org.uk/",
+    "description": "The Zambia Society Trust is a UK-based charity devoted to the relief of poverty, disability and sickness, the promotion of good health and the advancement of education in Zambia. The Trust has been working for over 50 years to improve the lives and prospects of as many people in Zambia as possible, with a particular focus on children and young people."
   },
-  "":{
-    "name": "",
-    "url": "",
-    "description": ""
+  "Fiji":{
+    "name": "CARE",
+    "url": "https://www.care.org.au/country/fiji/",
+    "description": "CARE began its charity work in Fiji through local partner organisation, Live & Learn, in 2016, after Cyclone Winston, the strongest storm ever recorded in the southern hemisphere, devastated the Pacific nation. More than 540,000 people were affected with 44 killed and 131 injured. We’re working with communities to help prepare and plan for emergencies. In Fiji, our partner Live & Learn has been helping families build stronger homes to withstand strong winds. We have also been training Live & Learn to make sure their disaster responses consider the needs of all genders, the rights of children, and includes people of varying abilities"
   },
-  "":{
-    "name": "",
-    "url": "",
-    "description": ""
+  "Indonesia":{
+    "name": "Save the Children",
+    "url": "https://www.savethechildren.org.uk/where-we-work/asia/indonesia",
+    "description": "We've been working in Indonesia since 1976, focusing on child protection, education, health, child poverty, children's rights and responding to humanitarian emergencies like the 2018 tsunami. We're committed to transforming care for vulnerable children in Indonesia."
   },
-  "":{
-    "name": "",
-    "url": "",
-    "description": ""
+  "Lao People's Democratic Republic (the)":{
+    "name": "Save the Children",
+    "url": "https://www.savethechildren.org/us/where-we-work/laos",
+    "description": "Save the Children has supported programs in Laos since 1987. Today, we continue to help children in Laos access quality healthcare, education, protection and nutrition services so that they can not only survive, but also live to build a better future for themselves and their families."
   },
-  "":{
-    "name": "",
-    "url": "",
-    "description": ""
+  "Colombia":{
+    "name": "Food For The Poor",
+    "url": "https://www.foodforthepoor.org/our-work/where-we-serve/colombia/",
+    "description": "Food For The Poor has partnered with Minuto de Dios, a Colombian nonprofit organization, to bring relief to families in Colombia, including the tens of thousands of Venezuelan migrants who have fled to escape shortages of food, water and medicine."
   },
-  "":{
-    "name": "",
-    "url": "",
-    "description": ""
+  "Belize":{
+    "name": "Food For The Poor",
+    "url": "https://www.foodforthepoor.org/our-work/where-we-serve/belize/",
+    "description": "Food For The Poor (FFTP) began working in Belize in 1986. The international relief and development organization helps local groups that serve in the Central American country. The local organization A Hand to the Needy has been an FFTP in-country partner for 35 years, and assists impoverished rural communities, providing help to more than 2,500 families within 61 communities and 44 schools throughout the country."
   },
+  "Philippines":{
+    "name": "Save the Children",
+    "url": "https://www.savethechildren.org/us/where-we-work/philippines",
+    "description": "Save the Children has a long history of responding to natural disasters in the Philippines. After Super Typhoon Haiyan, which left a massive path of destruction, we were among the first on the ground providing emergency relief. After the water subsided, we remained, supporting the rebuilding of homes and livelihoods of over 1 million people, including 826,000 children."
+  },
+  "Cambodia":{
+    "name": "ActionAid",
+    "url": "https://www.actionaid.org.uk/about-us/where-we-work/cambodia",
+    "description": "ActionAid began operating in Cambodia in 1999. We work to support some of the most vulnerable communities in Cambodia to claim their rights through education, training and loans. Find out more about Cambodia, including facts, statistics and information about ActionAid's life-changing work."
+  },
+  "Saint Vincent and the Grenadines":{
+    "name": "Food For The Poor",
+    "url": "https://www.foodforthepoor.org/our-work/where-we-serve/saint-vincent/",
+    "description": "In St. Vincent, Food For The Poor partners with the Diocese of Kingstown to help the island’s poor and disenfranchised. Saint Vincent measures 130 square miles, about two times the size of Washington, D.C."
+  },
+  "Viet Nam":{
+    "name": "Save the Children",
+    "url": "https://www.savethechildren.org/us/where-we-work/vietnam",
+    "description": "Save the Children has been a leading charity serving the needs of Vietnam’s children since 1990 – and offering sponsorship since 2013. In 1991, we launched a pioneering program, based on the “positive deviance” approach, to combat crushing child malnutrition in rural Vietnam."
+  },
+  "Tunisia":{
+    "name": "Islamic Relief",
+    "url": "https://www.islamic-relief.org.uk/about-us/where-we-work/tunisia/",
+    "description": "Islamic Relief provides a range of seasonal and development assistance to address food poverty and empower families on low incomes or without work. We have introduced life-changing livelihood projects for farmers who had lost everything in storms and provided materials and tools to repair greenhouses to secure an abundant harvest. During the revolution in Libya, Islamic Relief was also one of the first aid agencies on the ground in border areas including Tunisia. "
+  },
+  "Burkina Faso":{
+    "name": "Save the Children",
+    "url": "https://www.savethechildren.org/us/where-we-work/burkina-faso#:~:text=Today%2C%20Save%20the%20Children%20is,child%20health%2C%20education%20and%20protection.&text=We%20work%20closely%20with%20government,needs%20and%20successfully%20address%20them.",
+    "description": "oday, Save the Children is a leading charity for children in Burkina Faso, with programs in child health, education and protection. These programs focus on improving maternal and child health, addressing malnutrition and food insecurity, promoting school enrollment, particularly for girls, ending child marriage and keeping children safe, as well as raising awareness of children’s rights."
+  },
+  "Mauritania":{
+    "name": "Mauritania Foundation",
+    "url": "https://www.mauritaniafoundation.org/",
+    "description": "The Mauritania Foundation is a non-profit certified organization. It has been established to provide support and aid for the relief and development of the people of Mauritania and their communities through various charitable initiatives."
+  },
+  "Senegal":{
+    "name": "ActionAid",
+    "url": "https://www.actionaid.org.uk/about-us/where-we-work/senegal",
+    "description": "ActionAid began work in Senegal in 2001. We are currently working to support vulnerable communities in Senegal amid the ongoing devastation of the coronavirus pandemic.  As of April 2021, our emergency response has reached more than 62,000 people in Senegal. This includes the distribution of at least 5,000 hygiene kits, food packages for at least 20,000 people and handwashing supplies for 13,000 people. "
+  },
+  "Guinea":{
+    "name": "Friends Of Guinea",
+    "url": "http://www.friendsofguinea.org/",
+    "description": "Friends of Guinea, a National Peace Corps Association affiliate group, is a volunteer-run nonprofit organization consisting mainly of current and former Peace Corps volunteers serving in Guinea, and their friends and families that aims to work towards the long-term development of Guinea by supporting and initiating worthy projects."
+  },
+  "Ecuador":{
+    "name": "Ecuador Trust",
+    "url": "http://www.ecuadortrust.org.uk/",
+    "description": "The Martin Chambers Ecuador Trust was set up in 2006 to support the lives of those who live in the poorest conditions in Ecuador.  It was started up to support the work of Fr. Martin Chambers while he worked on the missions in Ecuador’s largest city, Guayaquil from 2004-2009. Since Fr. Martin returned to Scotland in 2009, the work of the Trust has continued.  It continues to support the poorest people in various parts of Ecuador: in feeding programmes; in supporting educational projects; and in giving the people there a helping hand as they set up their community amongst the poorest conditions."
+  },
+  "Saint Lucia":{
+    "name": "Food For The Poor",
+    "url": "https://www.foodforthepoor.org/our-work/where-we-serve/saint-lucia/",
+    "description": "Food For The Poor ships containers full of essential goods to the poor of St. Lucia, and also supports poverty alleviation projects as needed. Saint Lucia measures 606 square miles, about 5 times the size of Washington, D.C."
+  },
+  "South Sudan":{
+    "name": "Save the Children",
+    "url": "https://www.savethechildren.org.uk/where-we-work/africa/south-sudan",
+    "description": "Conflict in South Sudan has forced thousands of families from their homes. In the chaos of war, children and parents are often separated. Our family tracing and reunification teams help them find each other again. And we ensure unaccompanied children are safe."
+  },
+  "Lebanon":{
+    "name": "Muslim Hands",
+    "url": "https://muslimhands.org.uk/appeals/lebanon-emergency",
+    "description": "On Tuesday 4th August, a massive building explosion in Beirut port killed at least 220 people and injured at least 6,000 more. Our partners on the ground are responding to this devastating crisis, and they urgently need your help. Your donations will help us rebuild homes and provide medical care to vulnerable families."
+  },
+  "Pakistan":{
+    "name": "Penny Appeal",
+    "url": "https://pennyappeal.org/appeal/pakistan-independence-day",
+    "description": "For 10 amazing years, Penny Appeal has been working across Pakistan, developing life-changing projects. We have been able to change hundreds of thousands of lives for the better in Pakistan with life-saving winter distributions, sustainable rooftop gardens and so much more with your help."
+  },
+  "Armenia":{
+    "name": "Armenia Fund",
+    "url": "https://www.armeniafund.org/",
+    "description": "Armenia Fund is the largest humanitarian organization serving the needs of the Republic of Armenia and the Artsakh Republic. Our mission is to connect the people of Armenia with the worldwide Armenian Diaspora to create a better homeland for the Armenian nation."
+  },
+  "Nepal":{
+    "name": "ActionAid",
+    "url": "https://www.actionaid.org.uk/about-us/where-we-work/nepal",
+    "description": "Nepal is a high-risk country with high levels of poverty, particularly among daily wage labourers traveling in and out of India. Thanks to the support of ActionAid donors, our coronavirus response in Nepal has reached more than 427,000 people so far. This has included the distribution of thousands of Covid-19 prevention kits, handwashing supplies and PPE items, alongside food packages and menstrual products to those in need. "
+  },
+  "El Salvador":{
+    "name": "Food For The Poor",
+    "url": "https://www.foodforthepoor.org/our-work/where-we-serve/el-salvador/",
+    "description": "he country’s large population and limited amount of land stretches natural resources to their breaking points and contributes to housing shortages. Education is a major concern as well, as many children do not attend school. Only about half of the people living in rural areas can read and write. Food For The Poor has been actively working to help the poor of El Salvador since 1996."
+  },
+  "El Salvador":{
+    "name": "Food For The Poor",
+    "url": "https://www.foodforthepoor.org/our-work/where-we-serve/el-salvador/",
+    "description": "he country’s large population and limited amount of land stretches natural resources to their breaking points and contributes to housing shortages. Education is a major concern as well, as many children do not attend school. Only about half of the people living in rural areas can read and write. Food For The Poor has been actively working to help the poor of El Salvador since 1996."
+  },
+
 
 }
