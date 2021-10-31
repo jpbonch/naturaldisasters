@@ -1,78 +1,158 @@
 {
   "Haiti": {
+    "name": "Hope For Haiti",
     "url": "https://hopeforhaiti.com/",
     "description": "Hope for Haiti’s mission is driven by the fundamental belief that there is always a pathway to a better life in Haiti despite the numerous challenges that exist. To accomplish our mission, we implement an integrated model for development that has been proven to reduce poverty by working with community leaders in rural areas in five key program areas: education, healthcare, infrastructure, access to clean water, and economic opportunity."
   },
   "Bangladesh": {
+    "name": "Penny Appeal",
     "url": "https://pennyappeal.org/appeal/bangladesh-floods",
     "description": "Hundreds of people have died, while many more have lost their homes, livelihoods and lack access to essential food, water, and even basic medical assistance. Penny Appeal is working with partners on the ground to provide life-saving support to those whose lives have been torn apart this Monsoon season."
   },
   "Algeria":{
+    "name": "SOS Children's Villages",
     "url": "https://www.sos-childrensvillages.org/where-we-help/africa/algeria",
     "description": "Algeria is known as the gateway between continental Europe and Africa. Despite the discovery of large oil and gas reserves, vast parts of Algeria are deeply immersed in poverty. In Algiers, thousands of street children are struggling to survive without any support from their families. SOS Children's Villages has been reaching out to the country's young people and children in order to support and protect them."
   },
   "Sudan":{
+    "name": "Save The Children",
     "url": "https://www.savethechildren.org/us/where-we-work/sudan",
     "description": "Save the Children has served as a leading charity for children in Sudan since 1983, starting with our work to provide humanitarian relief during drought-caused hunger crises across the country, then to programming for children and families affected by violent conflict, displacement, extreme poverty and a lack of basic services."
   },
   "Myanmar":{
+    "name": "Save The Children",
     "url": "https://www.savethechildren.org/us/where-we-work/myanmar",
     "description": "Save the Children has worked as a leading charity for children in Myanmar since 1995, and has offered sponsorship since 2017. We’re helping children access essential services like health care, education and protection. We've expanded our programs to support the most vulnerable children and their families. We provide emergency relief for those displaced by conflict or whose lives are disrupted by disaster."
   },
   "Iraq":{
+    "name": "Save The Children",
     "url": "https://www.savethechildren.org.uk/where-we-work/middle-east/iraq",
     "description": "Our teams are in Iraq, doing everything we can to reach children caught up in the violence. But we need your help to protect children in the line of fire. Donate to our Emergency Fund so we can help children caught up in this crisis, and crises like this around the world."
   },
   "Malaysia":{
+    "name": "MERCY Malaysia",
     "url": "https://www.mercy.org.my/",
     "description": "MERCY Malaysia adopts the Total Disaster Risk Management (TDRM) approach to our work which applies disaster risk management to all the phases of the disaster management cycle – from emergency response, to recovery, prevention/mitigation and preparedness/readiness."
   },
   "Central African Republic":{
+    "name": "Concern Worldwide",
     "url": "https://www.concern.org.uk/where-we-work/central-african-republic",
     "description": "We have been operational in the Central African Republic (CAR) since March 2014. The overall goals of our programme in CAR are to provide humanitarian assistance, build the resilience of communities and to alleviate the suffering of conflict-affected communities."
   },
   "Côte d'Ivoire":{
+    "name": "Action Against Hunger",
     "url": "https://www.actionagainsthunger.org.uk/our-impact/where-we-work/west-africa/cote-divoire",
     "description": "Our focus in this country is aimed at strengthening the Ivorian health system. By using a community-based approach, we’re trying to get communities more involved in local health centre management and activities centred around prevention of malnutrition."
   },
   "Venezuela (Bolivarian Republic of)":{
+    "name": "Healing Venezuela",
     "url": "https://www.healingvenezuela.org/",
     "description": "Healing Venezuela is an apolitical charity whose purpose is to help the delivery of the best possible medical assistance to the people of Venezuela through a variety of programmes, including providing medical supplies, sponsoring junior doctors, improving infrastructure in hospitals and feeding children at risk of malnutrition."
   },
   "Mongolia":{
+    "name": "Asral Mongolia",
     "url": "https://www.asralmongolia.org/",
     "description": "Asral is an award-winning NGO established by Venerable Panchen Ötrul Rinpoche in 2001 to eradicate poverty, prevent the disintegration of the family and to support vulnerable children and their mothers in Mongolia."
   },
   "Yemen":{
+    "name": "UNICEF",
     "url": "https://www.unicef.org.uk/donate/yemen/",
     "description": "UNICEF is on the ground working around the clock to protect children in Yemen. Since the start of the crisis, we have helped to reach more than 4 million children with over 3,000 tonnes of life-saving supplies, including life-saving therapeutic food, safe drinking water and health care supplies."
   },
   "the Republic of North Macedonia":{
+    "name": "Fuel Macedonia",
     "url": "https://www.fuelmacedonia.org.uk/",
     "description": "Fuel Macedonia is a UK registered charity established to prevent and relieve poverty and bring relief to those in financial hardship in North Macedonia. The charity's aim is to support locally run initiatives that can become the long-term solution to local issues."
   },
   "Panama":{
+    "name": "SOS Children's Villages",
     "url": "https://www.sos-childrensvillages.org/where-we-help/americas/panama",
     "description": "SOS Children's Villages has been present in Panama since the 1980s. The first SOS Children's Village went into operation in 1982. Through our work in four locations - in Panama City, Davíd, Colón and Penonomé, we have been supporting children and young people by providing day-care, education, vocational training, playgrounds and sports facilities. When children can no longer stay with their families, they are cared for by their SOS mothers in one of the SOS families."
   },
   "Costa Rica":{
+    "name": "Costa Rican Humanitarian Foundation",
     "url": "http://www.crhf.org/",
     "description": "The Costa Rican Humanitarian Foundation (CRHF) is a non-profit organization committed to developing creative and economical solutions to a wide range of social problems in Costa Rica. The CRHF provides opportunities to exchange friendship, goods, services, and financial resources for critical needs among different cultures, socio-economic classes, and language groups."
   },
   "Syrian Arab Republic":{
+    "name": "UNICEF",
     "url": "https://www.unicef.org.uk/donate/syria/",
     "description": "Ten years of conflict have left 8 million Syrian children in danger. Children have lost their homes, their schools and even their families. They face unspeakable violence, a lack of access to food, health care and clean water, as well as an increased risk of disease. Unicef is working to tackle these issues."
   },
   "Chad":{
+    "name": "CARE International",
     "url": "https://www.careinternational.org.uk/countries/chad",
     "description": "CARE began working in Chad, one of the world's poorest countries, in 1975. We work on a number of long-term programmes to improve quality of life in poor communities, with projects on water and sanitation, earning a living, farming, natural resource management and gender-based violence. We also work with the many refugees fleeing from ongoing violence and conflict in neighbouring countries."
   },
   "Niger":{
+    "name": "Concern Worldwide",
     "url": "https://www.concern.org.uk/where-we-work/niger",
     "description": "Our response in Niger focuses on tackling the structural causes of extreme poverty through health, nutrition, livelihoods and education support. Niger is faced with daunting development challenges, exacerbated by security concerns from terrorist incursions, challenges with the transit of Europe-bound migrants, climate change and excessive population growth."
   },
   "Nigeria":{
+    "name": "Save The Children",
     "url": "https://www.savethechildren.org.uk/where-we-work/africa/nigeria",
     "description": "We focus on health, nutrition, education, livelihoods and child protection. We work closely with partners to develop sustainable, replicable programmes which help children to reach their full potential."
-  }
+  },
+  "Sri Lanka":{
+    "name": "Medical Aid To Sri Lanka",
+    "url": "https://www.medicalaidtosrilanka.org.uk/",
+    "description": "Medical Aid to Sri Lanka is a registered charity aiming to help improve medical facilities in Sri Lanka. Started in 1995, we have donated over £400,000 worth of equipment and medical supplies to various government health institutions and have also supported training of health workers."
+  },
+  "India":{
+    "name": "Give India",
+    "url": "https://www.giveindia.org/",
+    "description":  "India COVID Response Fund (ICRF) is best described as a giving collective that enables both individuals and organisations to respond together to COVID. In 2020, ICRF raised ₹220Cr+, impacting the lives of 56L+ people in India. We re-launched ICRF in April 2021, in response to the grave second wave of COVID to support gaps in healthcare and other critical needs."
+  },
+  "Afghanistan":{
+    "name": "Afghanaid",
+    "url": "https://www.afghanaid.org.uk/",
+    "description": "We build basic services, improve livelihoods, strengthen the rights of women and children, help communities protect against natural disasters and climate change, and respond to humanitarian emergencies."
+  },
+  "Tajikistan":{
+    "name": "Oxfam",
+    "url": "https://www.oxfam.org/en/what-we-do/countries/tajikistan",
+    "description": "Oxfam started working in Tajikistan in 2001. Our work in the country is concentrated in rural areas in the northern and southern regions, where migration rates are high, and where farming is the main source of employment. We also operate at national and local levels, working with a number of local NGOs, and various government ministries and departments of the Republic of Tajikistan."
+  },
+  "Somalia":{
+    "name": "Concern Worldwide",
+    "url": "https://www.concern.org.uk/where-we-work/somalia",
+    "description": "Concern's programmes respond to the effects of natural disasters, such as drought and floods, as well as population displacements caused by conflict and ongoing insecurity. We work on emergency responses and also longer-term programmes that seek to build the resilience of affected communities."
+  },
+  "Democratic Republic of the Congo":{
+    "name": "Save The Children",
+    "url": "https://www.savethechildren.org/us/where-we-work/democratic-republic-of-congo",
+    "description": ""
+  },
+  "":{
+    "name": "",
+    "url": "",
+    "description": ""
+  },
+  "":{
+    "name": "",
+    "url": "",
+    "description": ""
+  },
+  "":{
+    "name": "",
+    "url": "",
+    "description": ""
+  },
+  "":{
+    "name": "",
+    "url": "",
+    "description": ""
+  },
+  "":{
+    "name": "",
+    "url": "",
+    "description": ""
+  },
+  "":{
+    "name": "",
+    "url": "",
+    "description": ""
+  },
+
 }
