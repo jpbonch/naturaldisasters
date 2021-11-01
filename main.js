@@ -59,10 +59,12 @@ function updateInfoSection(disasterInfo, image, charity){
   try {
       $("#charityDescription").html(charity.description);
       $("#url").attr("href", charity.url);
+      $("#url").html(charity.name);
   } catch (error) {
     var charityUrl = "https://www.globalgiving.org/search/?size=25&nextPage=1&sortField=sortorder&selectedCountries=00" + disasterInfo.country.substring(0,6).toLowerCase() + "&loadAllResults=true;";
     $("#url").attr("href", charityUrl);
     $("#charityDescription").html("");
+    $("#url").html("GlobalGiving");
   }
 
 
