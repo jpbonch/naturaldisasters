@@ -99,8 +99,7 @@ async function getDisasterData() {
   var startQueryMonth = year + "-" + monthNumber + "-01";
   var endQueryMonth = year + "-" + monthNumber + "-" + daysInMonth;
 
-  var result = await fetch("https://api.reliefweb.int/v1/disasters?appname=app&profile=list&preset=latest&slim=1&query[value]=date.created%3A%5B" + startQueryMonth + "%20TO%20" + endQueryMonth + "%7D&query[operator]=AND",
-  {mode: 'no-cors'})
+  var result = await fetch("https://api.reliefweb.int/v1/disasters?appname=app&profile=list&preset=latest&slim=1&query[value]=date.created%3A%5B" + startQueryMonth + "%20TO%20" + endQueryMonth + "%7D&query[operator]=AND")
   var reliefData = await result.json();
   var disasterData = [];
   for (disaster of reliefData.data) {
