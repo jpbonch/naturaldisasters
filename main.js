@@ -119,7 +119,7 @@ async function placeMarkers(markers, charities) {
   var disasterData = await getDisasterData();
   markers.clearLayers();
   for (disaster of disasterData) {
-    var k = await fetch('/api/mapbox');
+    var k = await fetch('https://naturaldisasters-backend.vercel.app/api/mapbox');
     k = await k.json();
     var response = await fetch("https://api.mapbox.com/geocoding/v5/mapbox.places/" + disaster.country + ".json?autocomplete=false&types=country&limit=1&access_token=" + k.message);
     response = await response.json();
