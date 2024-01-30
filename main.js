@@ -8,7 +8,7 @@ function createMap(){
   var markers = L.layerGroup();
   mymap.addLayer(markers);
 
-  fetch('/api/mapbox')
+  fetch('https://naturaldisasters-backend.vercel.app/api/mapbox')
     .then((result) => result.json())
     .then((jsonResult) => L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', {
       maxZoom: 18,
